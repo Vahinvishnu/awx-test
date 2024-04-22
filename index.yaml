@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  awx-test:
+  - name: awx-test
+    version: 1.0.0
+    description: A sample Helm chart for AWX
+    keywords:
+    - awx
+    - helm
+    - chart
+    home: https://github.com/Vahinvishnu/awx-test
+    sources:
+    - https://github.com/Vahinvishnu/awx-test
+    maintainers:
+    - name: Vahin Vishnu
+      email: vahin@example.com
+    digest: sha256:1234567890abcdef
+    urls:
+    - https://github.com/Vahinvishnu/awx-test/releases/download/v1.0.0/awx-test-1.0.0.tgz
